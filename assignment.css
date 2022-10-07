@@ -1,0 +1,12 @@
+body{
+
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content:center;
+}
+table{
+    background-color: aquamarine;
+    border: 5px solid rgb(13, 13, 14);
+    padding: 25px;
+}
